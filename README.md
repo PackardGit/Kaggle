@@ -1,4 +1,5 @@
 # Kaggle
-Basic Kaggle stuff
+Basic Kaggle stuff.  
+
 My  Kaggle Profile:
 https://www.kaggle.com/andrzejpackard
